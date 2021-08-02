@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psk001&label=Profile%20views&color=0e75b6&style=flat" alt="psk001" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pr_psk" target="blank"><img src="https://img.shields.io/twitter/follow/pe_psk?logo=twitter&style=for-the-badge" alt="pe_psk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pr_psk" target="blank"><img src="https://img.shields.io/twitter/follow/pe_psk?logo=twitter&style=for-the-badge" alt="pr_psk" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pe_psk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pe_psk" height="30" width="40" /></a>
+<a href="https://twitter.com/pr_psk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pe_psk" height="30" width="40" /></a>
 <a href="https://kaggle.com/psk0pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="psk0pr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/psk_pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="psk_pr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pskpr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pskpr" height="30" width="40" /></a>
