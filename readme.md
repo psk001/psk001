@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [pskprateek.netlify.app](pskprateek.netlify.app)
+- 👨‍💻 All of my projects are available at [https://pskprateek.netlify.app](https://pskprateek.netlify.app)
 
 - 📝 I regularly write articles on [https://devbloggy.herokuapp.com/blog](https://devbloggy.herokuapp.com/blog)
 
