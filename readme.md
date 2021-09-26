@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python Django SQL C CPP**
 
-- 📫 How to reach me **puspak9208@gmail.com**
+- 📫 Reach me at **puspak9208@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
