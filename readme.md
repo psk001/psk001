@@ -59,7 +59,7 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science 🎓 from Ja
 <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" /></code>
+
 <!-- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 -->
@@ -74,7 +74,5 @@ Stats | Streak |
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&locale=en" alt="psk001" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psk001&" alt="psk001" /> | 
 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
+  
 </div>
