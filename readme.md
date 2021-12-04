@@ -46,7 +46,7 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science 🎓 from Ja
 <code><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" /></code>
 
 ### ⚡ Database:
 <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></code>
