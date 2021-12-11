@@ -24,7 +24,6 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science and Engineer
 
 - 🛠 I’m experienced in Node.js, Express.js, Django <br /> Mongodb, PostgreSQL, Javascript, Python etc 💻.
 - 👨🏻‍💻 I’m currently learning Data Structure and Algorithm 🚀.
-- ⚡ Fun fact: more than 60% of users expect websites to load within 2 seconds.
 - 📫 How to reach me: puspak9208@gmail.com
 
 ### 👩‍💻 Programming Languages:
