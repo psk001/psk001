@@ -2,11 +2,17 @@
 ## Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/pskprateek/">
-  <img align="left" alt="Pushpak's Linkdein" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
+  <img align="left" alt="Pushpak's Linkdein" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.leetcode.com/pskpr">
-  <img align="left" alt="Pushpak's Leetcode" width="100px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  <img align="left" alt="Pushpak's Leetcode" width="98px" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black" />
 </a>
+
+<a href="https://www.codechef.com/pskpr">
+  <img align="left" alt="Pushpak's Codechef" width="100px" src="https://img.shields.io/badge/-CodeChef-5B4638?logo=CodeChef&logoColor=white" />
+</a>
+
+
 
 <div align="right">
 
