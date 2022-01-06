@@ -2,10 +2,10 @@
 ## Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/pskprateek/">
-  <img align="left" alt="Rohan's Linkdein" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
+  <img align="left" alt="Pushpak's Linkdein" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
-<a href="https://github.com/psk001">
-  <img align="left" alt="Pushpak's Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<a href="https://www.leetcode.com/pskpr">
+  <img align="left" alt="Pushpak's Leetcode" width="100px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
 <div align="right">
