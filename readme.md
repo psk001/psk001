@@ -8,7 +8,7 @@
   <img align="left" alt="Pushpak's Leetcode" width="98px" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black" />
 </a>
 
-<a href="https://www.codechef.com/pskpr">
+<a href="https://www.codechef.com/users/pskpr">
   <img align="left" alt="Pushpak's Codechef" width="100px" src="https://img.shields.io/badge/-CodeChef-5B4638?logo=CodeChef&logoColor=white" />
 </a>
 
