@@ -2,7 +2,7 @@
 ## Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/pskprateek/">
-  <img align="left" alt="Pushpak's Linkdein" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  <img align="left" alt="Pushpak's LinkedIn" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.leetcode.com/pskpr">
   <img align="left" alt="Pushpak's Leetcode" width="98px" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black" />
@@ -65,9 +65,6 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science and Engineer
 <code><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></code>
 
-<!-- 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
--->
 <br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psk001" alt="psk001" /></a> </p>
