@@ -26,13 +26,13 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science and Engineer
 
 <img align="right" height="250" width="375" alt="GIF" src="https://miro.medium.com/proxy/1*mr7WXw8tgpMhqugKP2WhrA.gif" />
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuffs...
 
 - 🛠 I’m experienced in Node.js, Express.js, Django <br /> Mongodb, PostgreSQL, Javascript, Python etc 💻.
 - 👨🏻‍💻 I’m currently learning Data Structure and Algorithm 🚀.
 - 📫 How to reach me: puspak9208@gmail.com
 
-### 👩‍💻 Programming Languages:
+### 👩‍💻 Programming Languages
 
 <code><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
@@ -53,11 +53,11 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science and Engineer
 <code><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=green" /></code>
 
-### ⚡ Database:
+### ⚡ Databases
 <code><img src="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
 
-### 🚀 Software and Tools:
+### 🚀 Software and Tools
 
 <code><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></code>
