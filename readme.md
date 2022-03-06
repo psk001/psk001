@@ -4,12 +4,17 @@
 <a href="https://www.linkedin.com/in/pskprateek/">
   <img align="left" alt="Pushpak's LinkedIn" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://www.leetcode.com/pskpr">
   <img align="left" alt="Pushpak's Leetcode" width="98px" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black" />
 </a>
 
 <a href="https://www.codechef.com/users/pskpr">
   <img align="left" alt="Pushpak's Codechef" width="100px" src="https://img.shields.io/badge/-CodeChef-5B4638?logo=CodeChef&logoColor=white" />
+</a>
+
+<a href="https://www.codeforces.com/users/pskpr">
+  <img align="left" alt="Pushpak's Codeforces" width="100px" src="https://img.shields.io/badge/-Codeforces-111111?logo=Codeforces&logoColor=white" />
 </a>
 
 
