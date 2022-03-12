@@ -29,7 +29,7 @@
  
 I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science and Engineering 🎓 from Jawaharlal Nehru University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Web, App Development 🕸️ 
 
-<img align="right" height="250" width="375" alt="GIF" src="https://miro.medium.com/proxy/1*mr7WXw8tgpMhqugKP2WhrA.gif" />
+<img align="right" height="300" width="500" alt="GIF" src="./github-readme.gif" />
 
 ### Talking about Personal Stuffs...
 
