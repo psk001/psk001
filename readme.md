@@ -93,12 +93,12 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science and Engineer
 <!-- readme stats -->
 <!-- <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&theme=dark&count_private=true&hide=contribs&include_all_commits=true" />
-</a>  -->
+</a>   -->
 
 <!--  top langs -->
-<!-- <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psk001&layout=compact&show_icons=true&theme=dark&exclude_repo=userDj" />
-</a>  -->
+<!--  <a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psk001&layout=compact&show_icons=true&theme=dark&exclude_repo=aerobeast,Leetcode-Problems,Machine-Learning-Project" />
+</a>   -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psk001&layout=compact&show_icons=true&theme=dark&exclude_repo=userDj)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -107,7 +107,9 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science and Engineer
 
  Stats | Streak | 
 --- | --- | 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&locale=en" alt="psk001" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psk001&" alt="psk001" /> |  
+ <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="psk001" /> | <img align="center" width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psk001&layout=compact&show_icons=true&theme=dark&exclude_repo=aerobeast,Leetcode-Problems,Machine-Learning-Project" alt="psk001" /> |  
+
+<!--  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psk001&" alt="psk001" /> -->
 
 <div align="center">
   
