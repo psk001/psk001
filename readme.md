@@ -67,18 +67,47 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science and Engineer
 <code><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></code>
+<!-- <code><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></code> -->
 
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psk001" alt="psk001" /></a> </p>
+<!-- profile trophy -->
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psk001" alt="psk001" /></a> </p> -->
 
 <br/>
 
-Stats | Streak |
---- | --- |
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&locale=en" alt="psk001" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psk001&" alt="psk001" /> | 
+<!--  wakatime stats -->
+<!-- [![Pushpak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=psk001)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+
+<!--  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psk001&layout=compact&show_icons=true&theme=dark&exclude_repo=userDj)](https://github.com/anuraghazra/github-readme-stats)" alt="psk001" /> 
+  -->
+<!--   
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psk001&layout=compact&show_icons=true&theme=dark&exclude_repo=userDj" alt="psk001" />  -->
+
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&theme=dark&count_private=true" alt="psk001" /> -->
+
+
+<!-- readme stats -->
+<!-- <a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&theme=dark&count_private=true&hide=contribs&include_all_commits=true" />
+</a>  -->
+
+<!--  top langs -->
+<!-- <a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psk001&layout=compact&show_icons=true&theme=dark&exclude_repo=userDj" />
+</a>  -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psk001&layout=compact&show_icons=true&theme=dark&exclude_repo=userDj)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ![Pushpak's GitHub stats](https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&theme=dark&count_private=true) -->
+
+
+ Stats | Streak | 
+--- | --- | 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&locale=en" alt="psk001" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psk001&" alt="psk001" /> |  
 
 <div align="center">
   
