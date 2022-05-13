@@ -33,7 +33,7 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science and Engineer
 
 ### Talking about Personal Stuffs...
 
-- 🛠 I’m experienced in Node.js, Express.js, Django <br /> Mongodb, PostgreSQL, Javascript, Python etc 💻.
+- 🛠 I’m experienced in Node.js, Express.js, Django <br /> Mongodb, MySQL, Javascript, Python etc 💻.
 - 👨🏻‍💻 I’m currently learning Data Structure and Algorithm 🚀.
 - 📫 How to reach me: puspak9208@gmail.com
 
@@ -59,7 +59,7 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science and Engineer
 <code><img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=green" /></code>
 
 ### ⚡ Databases
-<code><img src="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
 
 ### 🚀 Software and Tools
