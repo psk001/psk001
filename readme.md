@@ -59,7 +59,7 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science and Engineer
 <code><img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=green" /></code>
 
 ### ⚡ Databases
-<code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=blue" /></code>
 <code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
 
 ### 🚀 Software and Tools
