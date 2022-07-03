@@ -107,7 +107,7 @@ I'm a 3rd year student pursuing B.Tech + M.Tech in Computer Science and Engineer
 
  Github Stats | Language Stats | 
 --- | --- | 
- <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="psk001" /> | <img align="center" width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psk001&layout=compact&show_icons=true&theme=dark&exclude_repo=aerobeast,CG-project,Leetcode-Problems,Machine-Learning-Project,codechef-learn-DSA,problem-solving-collection,sched-simulator,leave-request-sys" alt="psk001" /> |  
+ <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="psk001" /> | <img align="center" width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psk001&layout=compact&show_icons=true&theme=dark&exclude_repo=aerobeast,CG-project,Leetcode-Problems,Machine-Learning-Project,codechef-learn-DSA,ml-backend,Django-Ecom,problem-solving-collection,sched-simulator" alt="psk001" /> |  
 
 <!--  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psk001&" alt="psk001" /> -->
 
