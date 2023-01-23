@@ -104,6 +104,7 @@ I'm a pre final year student pursuing B.Tech + M.Tech in Computer Science and En
 
 <!-- ![Pushpak's GitHub stats](https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&theme=dark&count_private=true) -->
 
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psk001" alt="psk001" /></a> </p> -->
 
  Github Stats | Language Stats | 
 --- | --- | 
