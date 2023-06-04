@@ -62,6 +62,7 @@ I'm a pre final year student pursuing B.Tech + M.Tech in Computer Science and En
 ### ⚡ Databases
 <code><img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=blue" /></code>
 <code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Elasticsearch-808080?style=for-the-badge&logo=elasticsearch&logoColor=yellow" /></code>
 
 ### 🚀 Software and Tools
 
@@ -103,9 +104,8 @@ I'm a pre final year student pursuing B.Tech + M.Tech in Computer Science and En
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psk001&layout=compact&show_icons=true&theme=dark&exclude_repo=userDj)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ![Pushpak's GitHub stats](https://github-readme-stats.vercel.app/api?username=psk001&show_icons=true&theme=dark&count_private=true) -->
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psk001" alt="psk001" /></a> </p> -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psk001" alt="psk001" /></a> </p>
 
  Github Stats | Language Stats | 
 --- | --- | 
