@@ -43,13 +43,14 @@ I'm a pre final year student pursuing B.Tech + M.Tech in Computer Science and En
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></code>
 <code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/GOlang-3776AB?style=for-the-badge&logo=go&logoColor=white" /></code>
 
 ### 💻 Frontend Development
 
 <code><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/React.Js-%23217346.svg?style=for-the-badge&logo=React&logoColor=white" /></code>
 
 ### 🗜 Backend Development
 
