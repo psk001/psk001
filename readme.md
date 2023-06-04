@@ -34,8 +34,8 @@ I'm a pre final year student pursuing B.Tech + M.Tech in Computer Science and En
 ### Talking about Personal Stuffs...
 
 - 🛠 I’m experienced in Node.js, Express.js, Django <br /> Mongodb, MySQL, Javascript, Python etc 💻.
-- 👨🏻‍💻 I’m currently learning Data Structure and Algorithm 🚀.
-- 📫 How to reach me: puspak9208@gmail.com
+<!-- - 👨🏻‍💻 I’m currently learning Data Structure and Algorithm 🚀. -->
+- 📫 Reach me at: puspak9208@gmail.com
 
 ### 👩‍💻 Programming Languages
 
