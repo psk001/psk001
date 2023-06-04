@@ -105,7 +105,7 @@ I'm a pre final year student pursuing B.Tech + M.Tech in Computer Science and En
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psk001&layout=compact&show_icons=true&theme=dark&exclude_repo=userDj)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psk001" alt="psk001" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psk001" alt="psk001" /></a> </p> -->
 
  Github Stats | Language Stats | 
 --- | --- | 
