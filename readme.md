@@ -26,10 +26,9 @@
 </div>
 
 ### Glad to see you here! 🤩
- 
-I'm a final year student pursuing B.Tech + M.Tech in Computer Science and Engineering 🎓 from Jawaharlal Nehru University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Web, App Development 🕸️ 
 
-I'm currently in my final year of the dual-degree program, pursuing a B.Tech + M.Tech in Computer Science and Engineering at Jawaharlal Nehru University🏛. My M.Tech research focuses on 5G and ORAN (Open Radio Access Network), specifically enhancing V2V (Vehicle-to-Vehicle) communications using ORAN and 5G technologies. As a passionate learner, I constantly explore new technologies and leverage them to solve real-life problems. Currently, I am a full-stack developer with expertise in backend development, actively contributing to web and app development projects.
+I'm currently in my final year of the dual-degree program, pursuing a B.Tech + M.Tech in Computer Science and Engineering at Jawaharlal Nehru University🏛. 
+My M.Tech research focuses on <b>5G and ORAN (Open Radio Access Network)</b>, specifically enhancing <b>V2V (Vehicle-to-Vehicle) communications</b> using ORAN and 5G technologies. As a passionate learner, I constantly explore new technologies and leverage them to solve real-life problems. Currently, I am a full-stack developer with expertise in backend development, actively contributing to web and app development projects.
 
 
 <img align="right" height="300" width="400" alt="GIF" src="./github-readme.gif" />
