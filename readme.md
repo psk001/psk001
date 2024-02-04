@@ -27,7 +27,7 @@
 
 ### Glad to see you here! 🤩
 
-I'm currently in my final year of the dual-degree program, pursuing a B.Tech + M.Tech in Computer Science and Engineering at Jawaharlal Nehru University🏛. 
+I'm currently in my final year of the dual-degree program, pursuing a B.Tech + M.Tech in Computer Science and Engineering at Jawaharlal Nehru University🏛. <br/>
 My M.Tech research focuses on <b>5G and ORAN (Open Radio Access Network)</b>, specifically enhancing <b>V2V (Vehicle-to-Vehicle) communications</b> using ORAN and 5G technologies. As a passionate learner, I constantly explore new technologies and leverage them to solve real-life problems. Currently, I am a full-stack developer with expertise in backend development, actively contributing to web and app development projects.
 
 
